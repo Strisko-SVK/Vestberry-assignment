@@ -8,5 +8,8 @@
     "bio": "aaa22",
     "image": null,
     "token": "fake_token"
-  }
+  },
+  
+  "feed": "Welcome"
+
 }
