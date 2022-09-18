@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.17.2",
+    "@faker-js/faker": "^7.5.0",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/vue": "^6.4.2",
     "@types/jest": "^27.0.3",
