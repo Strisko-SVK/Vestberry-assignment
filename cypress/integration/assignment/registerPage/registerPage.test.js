@@ -6,7 +6,7 @@ import RegisterPage from '../registerPage/pageObjects/registerPage'
 
 
 
-describe('RegisterPage Test Suite', () => {
+describe('Register Page Test Suite', () => {
 
     beforeEach(() => {
         cy.visit('#/register')

@@ -6,7 +6,7 @@ import { faker } from '@faker-js/faker';
   
 
 
-describe('HomePage Test Suite', () => {
+describe('Login Page Test Suite', () => {
 
     beforeEach(() => {
         cy.visit('#/login')
